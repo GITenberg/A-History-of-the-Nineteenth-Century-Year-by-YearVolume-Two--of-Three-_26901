@@ -1,0 +1,26 @@
+_repo: A-History-of-the-Nineteenth-Century-Year-by-YearVolume-Two--of-Three-_26901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Edwin
+    birthdate: 1869
+    deathdate: 1959
+    gutenberg_agent_id: '32314'
+    url: http://www.gutenberg.org/2009/agents/32314
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Modern -- 19th century'
+- !lcc 'D'
+title: A History of the Nineteenth Century, Year by Year. Volume 2 (of 3)
+url: http://www.gutenberg.org/ebooks/26901

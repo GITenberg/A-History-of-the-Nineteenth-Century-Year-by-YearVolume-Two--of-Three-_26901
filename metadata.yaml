@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32314'
     url: http://www.gutenberg.org/2009/agents/32314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26901#A-History-of-the-Nineteenth-Century-Year-by-YearVolume-Two--of-Three-
 gutenberg_issued: '2008-10-12'
 gutenberg_type: Text
 identifiers:
